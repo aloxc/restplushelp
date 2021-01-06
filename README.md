@@ -25,29 +25,29 @@
 如下图所示，点击刷新按钮即可完成接口列表的刷新。
 
 
-![刷新接口](https://gitee.com/aloxc/restplushelp/raw/master/help/zh-images/刷新接口.png) 
+![刷新接口](images/刷新接口.png) 
 
 # 3.如何查找接口？
 可以通过以下三种方法打开接口搜索框，也可以使用快捷键```CTRL + \ (mac command + \)```
-![搜索方式1](https://gitee.com/aloxc/restplushelp/raw/master/help/zh-images/搜索1.png)
+![搜索方式1](images/搜索1.png)
 
 
-![搜索方式2](https://gitee.com/aloxc/restplushelp/raw/master/help/zh-images/搜索2.png) 
+![搜索方式2](images/搜索2.png) 
 
 
- ![搜索方式3](https://gitee.com/aloxc/restplushelp/raw/master/help/zh-images/搜索3.png)
+ ![搜索方式3](images/搜索3.png)
 
 如下，弹出搜索框，可以键入需要搜索的接口，使用键盘上下方向键可选择对应的接口，然后使用回车定位到该接口。
 
- ![搜索结果](https://gitee.com/aloxc/restplushelp/raw/master/help/zh-images/搜索结果.png)
+ ![搜索结果](images/搜索结果.png)
 
 # 4.如何导入swagger中的接口到RestPlus中？
 
- ![swagger导入](https://gitee.com/aloxc/restplushelp/raw/master/help/zh-images/swagger.png)
+ ![swagger导入](images/swagger.png)
 
 
 
- ![swagger导入](https://gitee.com/aloxc/restplushelp/raw/master/help/zh-images/swagger1.png)
+ ![swagger导入](images/swagger1.png)
 
 # 5.设置
 
@@ -55,7 +55,7 @@
 
 # 6.接口分组
 
- ![接口分组](https://gitee.com/aloxc/restplushelp/raw/master/help/zh-images/分组方式.png) 
+ ![接口分组](images/分组方式.png) 
 
 
 
@@ -66,6 +66,6 @@ RestPlus 当前支持英语、汉语、日语三种语言， 可以点击插件�
 如下图所示，选择完毕后idea右下角会弹出提示框，点击其中的链接重启idea即可完成语言设置。
 
 
- ![语言切换](https://gitee.com/aloxc/restplushelp/raw/master/help/zh-images/语言设置.png)
+ ![语言切换](images/语言设置.png)
 
- ![重启](https://gitee.com/aloxc/restplushelp/raw/master/help/zh-images/重启.png)
+ ![重启](images/重启.png)
