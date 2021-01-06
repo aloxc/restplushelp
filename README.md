@@ -18,37 +18,54 @@
 * 支持 Micronaut
 * 支持 Java 和 Kotlin 语言。
 
+**本文中图片保存于github，中国访问可能较慢**
+
 
 # 2.项目新增接口后，如何刷新接口列表？
 如下图所示，点击刷新按钮即可完成接口列表的刷新。
 
 
-![刷新接口](http://i1.fuimg.com/731866/5c4549ec7813d467.png)
+![刷新接口](https://gitee.com/aloxc/restplushelp/raw/master/help/zh-images/刷新接口.png) 
 
 # 3.如何查找接口？
 可以通过以下三种方法打开接口搜索框，也可以使用快捷键```CTRL + \ (mac command + \)```
-![搜索方式1](http://i1.fuimg.com/731866/31b86f0fa4258027.png)
+![搜索方式1](https://gitee.com/aloxc/restplushelp/raw/master/help/zh-images/搜索1.png)
 
 
-![搜索方式2](http://i1.fuimg.com/731866/cda33b58fdde3333.png)
+![搜索方式2](https://gitee.com/aloxc/restplushelp/raw/master/help/zh-images/搜索2.png) 
 
 
-![搜索方式3](http://i1.fuimg.com/731866/1269c8c7ed1c993a.png)
+ ![搜索方式3](https://gitee.com/aloxc/restplushelp/raw/master/help/zh-images/搜索3.png)
 
 如下，弹出搜索框，可以键入需要搜索的接口，使用键盘上下方向键可选择对应的接口，然后使用回车定位到该接口。
 
-![搜索结果](http://i1.fuimg.com/731866/cc692707ad5f34c5.png)
+ ![搜索结果](https://gitee.com/aloxc/restplushelp/raw/master/help/zh-images/搜索结果.png)
 
 # 4.如何导入swagger中的接口到RestPlus中？
+
+ ![swagger导入](https://gitee.com/aloxc/restplushelp/raw/master/help/zh-images/swagger.png)
+
+
+
+ ![swagger导入](https://gitee.com/aloxc/restplushelp/raw/master/help/zh-images/swagger1.png)
+
+# 5.设置
+
+
+
+# 6.接口分组
+
+ ![接口分组](https://gitee.com/aloxc/restplushelp/raw/master/help/zh-images/分组方式.png) 
 
 
 
 # 2.如何设置RestPlus界面显示语言？
+
 RestPlus 当前支持英语、汉语、日语三种语言， 可以点击插件上方的语言设置图标，选择合适的语言，
 
 如下图所示，选择完毕后idea右下角会弹出提示框，点击其中的链接重启idea即可完成语言设置。
 
 
-![语言切换](https://i1.fuimg.com/731866/c4edf93362030b59.png)
+ ![语言切换](https://gitee.com/aloxc/restplushelp/raw/master/help/zh-images/语言设置.png)
 
-![重启](https://i1.fuimg.com/731866/9c91b5b21e0e90a1.png)
+ ![重启](https://gitee.com/aloxc/restplushelp/raw/master/help/zh-images/重启.png)
